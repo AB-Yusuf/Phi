@@ -1,0 +1,6 @@
+#ignore pyc 
+__pycache__
+
+.vscode/
+
+whatsapp_bot_venv/
